@@ -11,7 +11,19 @@ this project started as a solution to a one of the challenges in the **NASA spac
 -  how to contribute as a developer
 -  Development status
 -  Appendice
+-  project history
    
 
 #### INTRODUCTION
 to be contiuned tomorrow probably
+
+   #### dev status / what needs t be implemented
+     
+- the upload and download feature /adding a database / mysql
+- authentication
+
+#### PROJECT HISTORY
+
+this project was build using bootstap 
+coping and pasting the bootstrap code avialable on the [bootatrap website](https://getbootstrap.com/)  
+on 13-10 learnt more about github and git and planned to make a branch for add a database using mysql  
